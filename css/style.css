@@ -1,6 +1,12 @@
+h1{
+    color:#FFF;
+    text-align:center;
+}
+body,p{color:#FFF;}
+
 .intro{
 	height:600px;
-	background-color:#2388DB;
+	background:url('../img/tacos.jpg') #2388DB;
 }
 
 .form-horizontal .form-group{
