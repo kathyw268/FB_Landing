@@ -39,7 +39,7 @@ body,p{color:#FFF;}
     position:fixed;
     top:605px;
     width:100%;
-    height:600px;
+    height:800px;
     background-image:url('../img/city2.jpg');
     z-index:5;
 }
